@@ -1,0 +1,4 @@
+
+Ten nhan vien Tu
+ID nhan vien 123
+Luong cua nhan vien 312

@@ -1,0 +1,24 @@
+In ra phần tử âm của mảng
+In ra các phần tử có giá trị lẻ của mảng
+In ra các phần tử chẵn và nhỏ hơn 20
+Tìm vị trí phần tử có giá trị x xuất hiện cuối cùng trong mảng
+Tìm vị trí của phần tử nhỏ nhất trong mảng 1 chiều
+Tìm vị trí của phần tử lớn nhất trong mảng 1 chiều
+Tìm phần tử trong mảng gần giá trị x nhất
+Tìm phần tử của mảng cách xa nhất giá trị x
+Tìm đoạn [a, b] chứa các giá trị phần tử của mảng
+Tìm đoạn [-x, x] chứa toàn bộ phần tử trong mảng
+Tìm phần tử đầu tiên của mảng lớn hơn 2016
+Tìm phần tử cuối cùng trong mảng lớn hơn -1
+Tìm số chính phương đầu tiên trong mảng số nguyên
+Tìm phần tử đầu tiên có dạng 2^k
+Tìm phần tử có giá trị lớn nhất và có chứa toàn chữ số lẻ
+Tính tổng các phần tử cực đai trong mảng số nguyên
+Tính tổng các phần tử cực tiểu trong mảng
+Sắp xếp mảng theo thứ tự giảm dần
+Sắp xếp các phần tử chẵn giảm dần
+Sắp xếp các phần tử âm dương trong mảng
+Xóa phần tử tại vị trí lẻ trong mảng
+Xóa phần tử có giá trị lớn nhất trong mảng
+Xóa tất cả các phần tử nhỏ hơn X
+Xóa phần tử có giá trị gần X nhất

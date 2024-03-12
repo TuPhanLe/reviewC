@@ -1,0 +1,11 @@
+Definition: Con trỏ (Pointer) trong C là một biến, nó còn được gọi là locator hay indicator chỉ ra địa chỉ của một giá trị
+
+& || địa chỉ của toán tử || xác định địa chỉ của một biến 
+* || Toán tử liên kết    || truy cập đến giá trị của địa chỉ 
+
+
+Memory Management 
+
+Đối với mảng, ta gặp phải một mặt hạn chế của mảng trong C đó là phải khai báo kích thước tĩnh 
+Tức là đối với việc tạo một mảng, ta phải lập tức khai báo số lượng phần tử hoặc ngay lập tức khai báo phần tử
+Nên ta có thể khắc phục vấn đề này bằng cấp phát bộ nhớ động 

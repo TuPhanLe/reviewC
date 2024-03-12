@@ -1,0 +1,35 @@
+Nhân 2 ma trận
+Tính định thức ma trận
+Kiểm tra ma trận A có phải ma trận con của B không
+Đếm số lần xuất hiện ma trận A trong ma trận B
+Đếm giá trị nhỏ nhất trong ma trận số nguyên
+Tìm phần tử xuất hiện nhiều nhất trong ma trận
+Tĩm chữ số xuất hiện nhiều nhất trong ma trận số nguyên
+Liệt kê các dòng có tổng các phần tử là lớn nhất trong ma trận
+Liệt kê các cột có nhiều chữ số nhất trong ma trận
+Hoán vị 2 cột trên ma trận
+Hoán vị 2 dòng trên ma trận
+Xoay ma trận 90 độ
+Xoay ma trận 180 độ
+Xoay ma trận 270 độ
+Xóa dòng trong ma trận
+Xóa cột trong ma trận
+Tính tổng các số dương trong ma trận số thực
+Tính tổng các giá trị lẻ trong mảng số nguyên
+Tính tổng các giá trị trên 1 dòng ma trận số thực
+Tính tích các giá trị dương trên 1 cột ma trận số thực
+Tính trung bình cộng các số dương trong ma trận
+Đếm số phần tử dương trong ma trận số thực
+Đếm số phần tử dương trên biên của ma trận
+Đếm số lượng phần tử cực đại trong ma trận số thực
+Đếm phần tử cực trị trong ma trận
+Đếm số lượng giá trị có trong ma trận số thực
+Tính tổng các phần tử cực trị trong ma trận
+Đếm các giá trị yên ngựa trong ma trận
+Kiểm tra ma trận có chữ số lẻ không
+Kiểm tra 1 hàng trong ma trận có tăng dần hay không
+Kiểm tra 1 cột trong ma trận có giảm dần không
+Kiểm tra ma trận có giảm dần theo hàng và cột hay không
+Liệt kê các dòng toàn âm trong ma trận
+Liệt kê các dòng chứa toàn giá trị chẵn trong ma trận
+Liệt kê các dòng giảm dần trong ma trận
